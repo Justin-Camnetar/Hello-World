@@ -1,3 +1,8 @@
-# Hello-World
-# Title 
-## smaller title
+# Business notes 
+## Classes
+**BAIS Pro prep** - HW due Thursday night 
+
+*Managerial Acct* - Test **next** week 
+
+~~ignore~~
+  
